@@ -1,0 +1,48 @@
+Basic linux commands 
+Whoami
+It will shows the who loged into the terminal session
+LS:
+Shows the List of all files or directory 
+Ls -a
+It shows the hidden files or directories
+PWD:
+Present work directory 
+Touch 
+To create the file
+mkdir:
+Create a directory
+Cat:
+To read the content in the file
+Vim"
+To edit the  files 
+Cd ..:
+To go back from the present working directory
+Sudo su:
+Normal user to root user
+SU:
+Super user
+Adduser:
+To create a user
+Passwd:
+Create a password for the user
+Chmode:
+Change the permissions to a file or derectory
+Ps:
+We can see the present running process in the system
+df:
+we can find the disk usage 
+grep:
+by using this command, we can find the out particular file or directory or process in the system
+|-pipe:
+It is used for to separate the two commands 
+Man:
+It is a manual page for a particular command
+top:
+It will give the list of all process in the system.
+tar:
+It is a command used to archive the multiple files  into a single unit
+Tar -xvzf:
+To unzip the tar file 
+Echo:
+It used to print the argument you passed to it
+
