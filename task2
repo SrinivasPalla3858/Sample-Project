@@ -1,0 +1,15 @@
+How to debug storage and memory usage in linux?
+We need to find out the disk space usage
+For that we have a command called  “df” 
+Check the memory usage by entering the command called “free”
+We can find the systems memory usage including total memory , free memory , used space and free space.
+Swape usage also we have to find. For that we have a command called “vmstat”
+We can check the logs also because in that we can find any error messages or warnings related to memory or storage issues.
+We can check the hardware health like SSD AND HARD DRIVES issues also .
+
+Memory leaks in linux?
+Identify the process,
+Monitor the memory usage
+Check for the growing memory usage
+Check Libraries and frameworks
+we can also check by using some memory analysis tools like 'Massif' finding the memory leaks
