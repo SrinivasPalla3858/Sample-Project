@@ -1,0 +1,15 @@
+EC2?
+Elastic compute cloud.A machine which come through the Internet with CPU,storage, Nnetwork and operating system.It can be scalable based on demand you have. It will come with different OS like linux or Windows 
+ 
+What is EBS?
+EBS stands for elastic block storage. it is a additional storage to a EC2 machine.we can attach storage to a perticuler machine and dettach also. we can generate the snapshots through this EBS volumes. we can use where we need in all regiaons
+
+(I/O) Data to read and write data speed is depends on size of the volume the more in size speed will be high.
+
+AMI?
+Amazon Machine Image , it is a copy of root volume of a EC2 machine. If you want to use same configuration like OS,security group,CPU and network of a ec2 machine for multiple purposes we can generate a AMI from the EC2 machine. here we can't use the AMI from one region to another region.
+
+Snapshot?
+It is a backup of EBS, it will store all the data and metadata.we can convert the EBS volume into one snapshot and the same snapshot we can use like a EBS volume to other ec2 machine.
+
+  
