@@ -1,0 +1,6 @@
+VPC?
+It is known as Virtual privite cloud. It is a virtual network dedicated to your aws account.It will seperate logically from other virtual networks in the aws cloud.You can specify the range of IP addresses for a VPC, subnet,add internet gateways and associate security groups.
+
+When ever you creaet a aws account for your usage one default vpc will create automatically.Based on your requirments you can create your personal vpc for your project.
+
+A subnet is a set of IP addresses in your VPC.Whenever you create resorces in aws account like EC2, RDS,LAMBDA etc. within the subnet only. you can create.
