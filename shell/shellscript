@@ -1,0 +1,25 @@
+In a file a set of linux commands will exicute sequencially to get an output is known as shell script.
+
+The file should starts with
+#!/bin/bash
+
+we have differnet types of variables in our shell script
+those are
+local variables
+Environment variables
+
+
+where as local variales will pass in the scrippt file itself only.these files will called as chaild shell
+Where as environment variables are pass from main shell(parent shell) to chaild shell i.e when the varible pass into a file from outside.environment variables can't pass to a file from chaild shell to parrent shell.
+
+example for local variables
+name="srinivas"
+age=30
+city="hyderabad"
+
+environment variables
+export name="srinivas"
+export age=30
+export city="hyderabad"
+
+ 
